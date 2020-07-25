@@ -2,12 +2,12 @@ body {
     font-family: cursive ;
 }
 .paisaje{
-    background-color: rgb(84, 84, 172);
+    background-color: rgb(20, 20, 46);
     width: 800px;
     height: 300px;
 }
 .sol{
-  background-color: yellow;
+  background-color:rgb(146, 146, 58);
   border-radius: 100%;
   width: 100px;
     height: 100px;
@@ -18,7 +18,7 @@ body {
 
 .montaña1{
     border-style: solid;
-    border-color:transparent transparent brown transparent;
+    border-color:transparent transparent rgb(66, 14, 14) transparent;
     border-width: 0px 200px 140px 200px;
     width: 0;
     height:60px;
@@ -29,7 +29,7 @@ body {
 }
 .montaña2{
     border-style: solid;
-    border-color:transparent transparent brown transparent;
+    border-color:transparent transparent rgb(66, 14, 14) transparent;
     border-width: 0px 200px 140px 200px;
     width: 0;
     height:60px;
@@ -41,7 +41,7 @@ body {
 
 .montaña3{
     border-style: solid;
-    border-color:transparent transparent brown transparent;
+    border-color:transparent transparent rgb(66, 14, 14) transparent;
     border-width: 0px 240px 140px 200px;
     width: 0;
     height:60px;
@@ -50,7 +50,7 @@ body {
     position: absolute;
 }
 .tierra{
-    background-color: darkgreen;
+    background-color: rgb(12, 24, 12);
     width: 800px;
     height: 175px;
    
